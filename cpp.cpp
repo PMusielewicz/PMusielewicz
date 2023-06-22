@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [33mcommit f96004cc43e2650475276c4dea8a8ec1f970c70e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
 Author: PMusielewicz <137438501+PMusielewicz@users.noreply.github.com>
 Date:   Thu Jun 22 20:50:16 2023 +0200
@@ -39,3 +40,14 @@ Author: PMusielewicz <137438501+PMusielewicz@users.noreply.github.com>
 Date:   Thu Jun 22 20:07:20 2023 +0200
 
     Initial commit
+=======
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+    cout << "Wiosna" << endl;
+    cout << "Lato";
+    return 0;
+}
+>>>>>>> parent of 250e96f (Przykładowy opis zadania 2)

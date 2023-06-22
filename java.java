@@ -17,6 +17,7 @@ class Power {
       return 1;
     }
   }
+<<<<<<< HEAD
 }
 class Main {
   public static void main(String[] args) {
@@ -55,4 +56,6 @@ public class TimeString {
 
         System.out.println(date);
     }
+=======
+>>>>>>> parent of 250e96f (Przykładowy opis zadania 2)
 }
